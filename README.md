@@ -1,6 +1,6 @@
 # Portfolio
 
-A personal portfolio page, with responsive HTML and CSS based on a pdf mockup file.
+A personal portfolio page based on a pdf mockup file, with responsive HTML and CSS based on a pdf mockup file.
 
 ## Getting Started
 
