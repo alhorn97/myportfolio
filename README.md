@@ -1,4 +1,4 @@
-# Alonzo Horn Portfolio
+# Portfolio
 
 A personal portfolio page, with responsive HTML and CSS based on a pdf mockup file.
 
