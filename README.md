@@ -10,11 +10,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 Any modern graphical HTML webrowser, such as Chrome, Firefox or MS Edge is sufficient.
 
-### Instructions
+### Install
 
-Create a new project directory onto your local drive.
-Use CD to switch to this directory.
-Copy index.html and the /css and /img subfolders to this directory.
+* Create a new project directory onto your local drive.
+* Use CD to switch to this directory.
+* Copy index.html and the /css and /img subfolders to this directory.
 
 ### Project contents
 
