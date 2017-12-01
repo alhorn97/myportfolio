@@ -1,6 +1,6 @@
 # Portfolio
 
-A personal portfolio page based on a pdf mockup file, with responsive HTML and CSS.
+A personal portfolio web page based on a pdf mockup document, with responsive HTML and CSS.
 
 ## Getting Started
 
@@ -13,12 +13,12 @@ Any modern graphical HTML webrowser, such as Chrome, Firefox or MS Edge is suffi
 ### Install
 
 * Create a new project directory onto your local drive.
-* Use CD to switch to this directory.
-* Copy index.html and the /css and /img subfolders to this directory.
+* Use the CD command and switch to this directory.
+* Copy the index.html and the subfolders /css and /img into the project directory.
 
 ### Project contents
 
-This project consists for the following files:
+This project consists for the following files and folders:
 
 * index.html - main html document.
 * /css/main.css - contains the css style sheet
