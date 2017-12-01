@@ -20,6 +20,7 @@ Any modern graphical HTML webrowser, such as Chrome, Firefox or MS Edge is suffi
 
 This project consists for the following files and folders:
 
+* design-mockup-portfolio.pdf - source pdf document
 * index.html - main html document.
 * /css/main.css - contains the css style sheet
 * /img/*.png - graphical image files
