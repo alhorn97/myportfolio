@@ -30,5 +30,5 @@ This project consists for the following files and folders:
 * Navigate to the project directory created earlier.
 * Copy the path to  index.html
 * Launch your web browser
-* Enter the full path to index.html into your browser's URL
+* Enter the full path to index.html into your browser's URL to view the web page
 
