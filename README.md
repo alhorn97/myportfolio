@@ -28,6 +28,7 @@ This project consists for the following files and folders:
 ### How to Run Project
 
 * Navigate to the project directory created earlier.
-
-* Enter the full path to index.html into you favorite browser.
+* Copy the path to  index.html
+* Launch your web browser
+* Enter the full path to index.html into your browser's URL
 
